@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1651px){
+    footer .container .row .footer-col .contact{
+        margin: -180px 0 0 0;
+    }
+}
+
+@media only screen and (max-width: 1401px){
+    .portfolio .main-section .section-right{
+        padding: 200px 40px 0 0;
+    }
+    .portfolio .main-section .section-right .titel-2{
+        padding: 200px 0 0 0; 
+    }
+
+}
+
+@media only screen and (max-width: 1150px){
+    header .navbar .phone a{
+        display: none;
+    }
+    header .navbar .project a{
+        display: none;
+    }
+}
+@media only screen and (max-width: 853px){
+    header .navbar .nav-links a{
+        display: none;
+    }
+}
